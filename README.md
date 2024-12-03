@@ -1,2 +1,3 @@
 # Advent-of-Code-2024
-Placeholder Description
+
+Nathan's Solutions to Advent of Code 2024!
